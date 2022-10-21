@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Neurophysiology data
+*.nwb
+*.h5
+*.json
+
 # C extensions
 *.so
 
